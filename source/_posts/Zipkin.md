@@ -46,7 +46,6 @@ Zipkin主要涉及四个组件Collector，Storage，API和web UI
 ss-sr = 服务端处理延迟
 cr-cs = 得到整个链路的完成延迟
 
-
 #### BinaryAnnotation数据
 服务标注列表，提供一些额外的信息如url地址、返回码和异常信息等
 
